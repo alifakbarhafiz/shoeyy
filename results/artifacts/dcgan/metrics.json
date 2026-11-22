@@ -1,0 +1,9 @@
+{
+  "latent_dim": 100,
+  "sec_per_epoch": 12.772161693100001,
+  "latency_ms": 0.8039039969444275,
+  "test_mse": null,
+  "test_psnr": null,
+  "test_ssim": null,
+  "stability": "stable"
+}

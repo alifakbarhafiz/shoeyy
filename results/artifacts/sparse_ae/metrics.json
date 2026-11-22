@@ -1,0 +1,11 @@
+{
+  "latent_dim": 64,
+  "sec_per_epoch": 7.410640128200002,
+  "latency_ms": 0.2412159964442253,
+  "test_mse": 0.007809051002079822,
+  "test_psnr": 22.114722898701107,
+  "test_ssim": 0.7974666152238712,
+  "stability": "stable",
+  "mean_abs_latent": 0.4789794683456421,
+  "frac_near_zero": 0.2696875035762787
+}

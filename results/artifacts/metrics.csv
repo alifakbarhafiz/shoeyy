@@ -1,0 +1,7 @@
+model,latent_dim,sec_per_epoch,latency_ms,test_mse,test_psnr,test_ssim,fid,stability
+Vanilla Autoencoder,64,7.46,0.33,0.00739,22.36,0.8075,,stable
+Sparse Autoencoder,64,7.41,0.24,0.00781,22.11,0.7975,,stable
+Variational Autoencoder,64,7.51,0.14,0.01691,18.42,0.6448,101.04,stable
+Vanilla GAN,100,9.42,0.33,,,,148.12,stable
+DCGAN,100,12.77,0.8,,,,26.16,stable
+DDPM,28x28,36.35,9325.39,,,,40.49,stable
